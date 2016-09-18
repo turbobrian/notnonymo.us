@@ -1,0 +1,8 @@
+title: Not Anonymous
+email: contact@noyanonymo.us
+description: The excellent Not Anonymous website.
+baseurl: ""
+url: "http://www.notanoymo.us"
+# Build settings
+markdown: kramdown
+theme: minima
