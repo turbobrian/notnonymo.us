@@ -12,29 +12,29 @@ title: K notes
 		</p>
 	</div>
 	<div class="f">
-		<img src="/i/k1.jpg">
+		<img src="/i/k1.jpg" class="ik">
 		<p>
 		Closeup of Koon’s woodshed.
 
 		</p>
 	</div>
 	<div class="f">
-		<img src="/i/k2.jpg">
+		<img src="/i/k2.jpg" class="ik">
 		<p>
 		South side of Koon’s woodshed showing chairs and trash cans.
 
 		</p>
 	</div>
 	<div class="f">
-		<img src="/i/k3.jpg">
+		<img src="/i/k3.jpg" class="ik">
 		<p>
 Koon has a sand pile, an old plow, some planks, a wooden wheeled cart and a fire pit on our property.
 		</p>
 	</div>
 	<div class="f">
-		<img src="/i/k4.jpg">
+		<img src="/i/k4.jpg" class="ik">
 		<p>
-Koon’s fire pit, planks and lawn furniture on our property. 
+Koon’s fire pit, planks and lawn furniture on our property.
 		</p>
 	</div>
 </div>
